@@ -74,7 +74,7 @@ version = "0.34.2"
 optional = true
 
 [dependencies.crossbeam-channel]
-version = "0.4.2"
+version = "0.4.4"
 optional = true
 
 [dependencies.signal-hook]
