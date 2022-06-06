@@ -44,7 +44,7 @@ septem = "1.0.1"
 byteorder = "1.3.4"
 flate2 = "1.0.14"
 levenshtein = "1.0.4"
-nix = "0.17.0"
+nix = "0.20.2"
 indexmap = { version = "1.4.0", features = ["serde-1"] }
 anyhow = "1.0.31"
 thiserror = "1.0.20"
